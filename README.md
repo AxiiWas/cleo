@@ -4,4 +4,5 @@
 >
 > 
 
-> [!TIP] This project requires a **jailbroken** phone.
+> Tip
+> This project requires a **jailbroken** phone.
